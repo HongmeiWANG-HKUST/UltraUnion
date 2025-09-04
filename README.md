@@ -2,4 +2,4 @@
 
 UltraUnion is the first vision-language foundation model for whole-body ultrasound interpretation.
 
-！[UltraUnion](https://github.com/HongmeiWANG-HKUST/UltraUnion/blob/main/UltraUnion.tif)
+![UltraUnion](https://raw.githubusercontent.com/HongmeiWANG-HKUST/UltraUnion/main/UltraUnion.tif)
